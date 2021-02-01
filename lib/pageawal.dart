@@ -48,7 +48,7 @@ class Utama extends StatelessWidget {
                               TextStyle(fontSize: 35, color: Color(0XFFF56D5F)),
                         ),
                         Text(
-                          "Rizki Dwi Ramadhan\n20180801178",
+                          "Chika Dwiyana\n20180801344",
                           style: TextStyle(fontSize: 20),
                           textAlign: TextAlign.center,
                         ),
