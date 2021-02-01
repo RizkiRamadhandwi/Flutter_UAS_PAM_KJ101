@@ -101,7 +101,7 @@ class _LoginBerhasilState extends State<LoginBerhasil> {
                     Align(
                       // alignment: Alignment.bottomCenter,
                       alignment: Alignment.bottomCenter,
-                      child: Text("By Rizki Dwi Ramadhan 20180801178"),
+                      child: Text("By Chika Dwiyana 20180801344"),
                     )
                   ],
                 ),
